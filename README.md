@@ -19,6 +19,9 @@ Blog:  https://inte-gonext.hatenablog.com/entry/2026/10/23/104821
 <img src="docs/images/pcb_photo1.jpg" width="600px">  
 <img src="docs/images/pcb_photo2.jpg" width="600px">  
 <br>
+ç\ê¨ / architecture  
+<img src="docs/images/architecture.png" width="526px">  
+<br>
 
 ---
 

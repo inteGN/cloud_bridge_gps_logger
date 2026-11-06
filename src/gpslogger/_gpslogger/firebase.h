@@ -16,7 +16,7 @@
 #endif
 
 #ifndef WIFI_PASSWORD
-#error "You must define WIFI_PASS in secrets.h"
+#error "You must define WIFI_PASSWORD in secrets.h"
 #endif
 
 #ifndef API_KEY

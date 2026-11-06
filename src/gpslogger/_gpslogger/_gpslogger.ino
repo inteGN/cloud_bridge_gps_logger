@@ -514,7 +514,7 @@ void loop() {
 //status led control
   if (flagLedReq) {
     static int16_t brightnessLed;
-    if ((timer2sec % 5) == 0) {
+    //if ((timer2sec % 5) == 0) {
       if (isFlightMode) {
         if (psOkSd && psOkWifi) {
           if (timer2sec < 1000) {brightnessLed = (timer2sec >> 2);}
@@ -538,7 +538,7 @@ void loop() {
           else {analogWrite(LED_BUILTIN, 255);}
         }
       }
-    }
+    //}
     flagLedReq = false;
   }
 
